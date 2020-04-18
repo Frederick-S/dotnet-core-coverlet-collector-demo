@@ -1,1 +1,1 @@
-# dotnet-core-coverlet-collector-demo
+# dotnet-core-coverlet-collector-demo [![Build status](https://ci.appveyor.com/api/projects/status/7paebmp3o5nc9w8w/branch/master?svg=true)](https://ci.appveyor.com/project/Frederick-S/dotnet-core-coverlet-collector-demo/branch/master) [![codecov](https://codecov.io/gh/Frederick-S/dotnet-core-coverlet-collector-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/Frederick-S/dotnet-core-coverlet-collector-demo)
